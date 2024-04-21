@@ -127,7 +127,6 @@ export default {
       reg_alert_msg: 'Please wait! Your account is being created.'
     }
   },
-  
   methods: {
     ...mapActions(useUserStore,{
     createUser: "register",
