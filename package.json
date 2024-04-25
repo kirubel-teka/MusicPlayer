@@ -14,6 +14,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@ark-ui/vue": "^0.11.0",
     "@vee-validate/rules": "^4.12.6",
     "firebase": "^8.10.1",
     "pinia": "^2.1.7",
