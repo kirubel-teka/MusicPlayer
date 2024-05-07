@@ -54,7 +54,7 @@ export default {
     return {
       songs: [],
     }
-  },
+  }, 
   async created() {
     const snapshots = await songsCollection.get();
 
