@@ -6,12 +6,17 @@ export default defineStore('player', {
 
     state: () => ({
         current_song: {},
-        sound: {}
+        sound: {},
+        
     }),
 
     actions: {
         async newSong(song) {
-        
+            if (this.sound.playing) {
+                this.toggleAudio();
+                return;
+            }
+
             this.current_song = song;
 
             this.sound = new Howl({
@@ -19,8 +24,10 @@ export default defineStore('player', {
                 html5: true,
             });
 
+            
             this.sound.play();
-
+            
+            
         },
         async toggleAudio() {
             if (!this.sound.playing) {

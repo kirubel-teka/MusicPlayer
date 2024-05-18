@@ -17,8 +17,11 @@
 </template>
 
 <script>
+
+
 export default {
     name: 'AppSongItem',
     props: ['song'],
+
 }
 </script>
