@@ -1,12 +1,33 @@
 {
     "home": {
-        "listen": "Listen to great music!"
+        "listen": "Listen to great music!",
+        "intro": "Discover, listen, and share your love for music on Music Haven, the ultimate destination for music enthusiasts. Whether you're a casual listener or a passionate audiophile, our platform offers a rich and diverse library of songs spanning all genres and eras.",
+        "songs": "Songs"
+        
     },
     "song": {
         "comment_count": "No comments | 1 comment | {count} comments"
     },
-    "register":{
-        "accept": "I accept Music's {0}",
-        "tos": "Terms of Service"
+    
+    "manage": {
+        "my_songs": "My Songs",
+        "upload": "Upload"
+    },
+    "About": {
+        "title": " About Music Haven",
+        "mission": "Our Mission",
+        "mission_desc": "At Music Haven, our mission is to bring the joy of music to everyone. We believe in the power of music to inspire, heal, and connect people across the globe. Our platform is designed to provide an unparalleled listening experience, allowing users to discover, enjoy, and share their love for music.",
+        "who": "Who We Are",
+        "who_desc": "Music Haven is a passionate team of music lovers, tech enthusiasts, and creative thinkers dedicated to creating a space where music can thrive. We are committed to offering a diverse range of music from various genres and cultures, ensuring there's something for everyone.",
+        "offer":"What We Offer",
+        "offer_desc": " Extensive Music Library: Explore a vast collection of songs from different genres, artists, and eras. Whether you love classical music, rock, pop, jazz, or electronic, you'll find it here.Curated Playlists: Discover new music through our expertly curated playlists. We create playlists for every mood, occasion, and taste. Personalized Recommendations: Our advanced algorithms provide personalized song recommendations based on your listening habits and preferences. Community and Interaction: Engage with other music enthusiasts by sharing your favorite tracks, writing reviews, and participating in community discussions. Artist Support: We support emerging artists by giving them a platform to showcase their talent and reach a broader audience.",
+        "values": "Our Values",
+        "values_desc": "Passion for Music: We are driven by our love for music and our desire to share it with the world. Diversity and Inclusion: We celebrate the diversity of music and believe in creating an inclusive environment where all voices are heard. Innovation: We continuously strive to innovate and improve our platform to provide the best possible experience for our users. Community: We believe in the power of community and aim to foster a vibrant, supportive network of music lovers.",
+        "join": "Join Us",
+        "join_desc": "Whether you're here to discover new music, connect with like-minded individuals, or support your favorite artists, Music Haven is the place for you. Join us on this musical journey and be part of a community that celebrates the universal language of music.",
+        "contact": "Contact Us",
+        "contact_desc": "We love hearing from our users! If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us at music@haven.com.",
+        "thanks": "Thank you for being a part of Music Haven. Let's make beautiful music together!"
     }
+
 }

@@ -1,5 +1,31 @@
 {
     "home": {
-        "listen": "Écoutez de la bonne musique"
+        "listen": "Écoutez de la bonne musique",
+        "intro": "Découvrez, écoutez et partagez votre amour pour la musique sur Music Haven, la destination ultime pour les passionnés de musique. Que vous soyez un auditeur occasionnel ou un audiophile passionné, notre plateforme propose une bibliothèque riche et diversifiée de chansons couvrant tous les genres et toutes les époques.",
+        "songs": "Chansons"
+    },
+  
+    "manage":{
+        "my_songs": "Mes chansons",
+        "upload": "télécharger"
+    },
+    "About": {
+        "title": " À propos de Music Haven",
+        "mission": "Notre mission",
+        "mission_desc": "Chez Music Haven, notre mission est d'apporter la joie de la musique à tout le monde. Nous croyons au pouvoir de la musique pour inspirer, guérir et connecter les gens du monde entier. Notre plateforme est conçue pour offrir une expérience d'écoute inégalée, permettant aux utilisateurs de découvrir, d'apprécier et de partager leur amour pour la musique.",
+        "who": "Qui nous sommes",
+        "who_desc": "Music Haven est une équipe passionnée de mélomanes, de passionnés de technologie et de penseurs créatifs qui se consacrent à la création d'un espace où la musique peut prospérer. Nous nous engageons à offrir une gamme variée de musiques issues de différents genres et cultures, afin de garantir qu'il y en ait pour tous les goûts.",
+        "offer":"Ce que nous offrons",
+        "offer_desc": " Bibliothèque musicale étendue : explorez une vaste collection de chansons de différents genres, artistes et époques. Que vous aimiez la musique classique, le rock, la pop, le jazz ou l'électronique, vous la trouverez ici. Listes de lecture organisées : découvrez de nouvelles musiques grâce à nos listes de lecture organisées par des experts. Nous créons des listes de lecture pour chaque humeur, occasion et goût. Recommandations personnalisées : nos algorithmes avancés fournissent des recommandations de chansons personnalisées en fonction de vos habitudes et préférences d'écoute. Communauté et interaction : engagez-vous avec d'autres passionnés de musique en partageant vos morceaux préférés, en rédigeant des critiques et en participant aux discussions de la communauté. Soutien aux artistes : Nous soutenons les artistes émergents en leur offrant une plateforme pour mettre en valeur leur talent et atteindre un public plus large.",
+        "values": "Nos valeurs",
+        "values_desc": "Passion pour la musique : Nous sommes motivés par notre amour pour la musique et notre désir de la partager avec le monde. Diversité et inclusion : Nous célébrons la diversité de la musique et croyons en la création d'un environnement inclusif où toutes les voix sont entendues. Innovation : nous nous efforçons continuellement d'innover et d'améliorer notre plateforme pour offrir la meilleure expérience possible à nos utilisateurs. Communauté : Nous croyons au pouvoir de la communauté et visons à favoriser un réseau dynamique et solidaire d’amateurs de musique.",
+        "join": "Rejoignez-nous",
+        "join_desc": "Que vous soyez ici pour découvrir de nouvelles musiques, vous connecter avec des personnes partageant les mêmes idées ou soutenir vos artistes préférés, Music Haven est l'endroit idéal pour vous. Rejoignez-nous dans ce voyage musical et faites partie d'une communauté qui célèbre le langage universel de la musique.",
+        "contact": "Contactez-nous",
+        "contact_desc": "Nous aimons entendre nos utilisateurs ! Si vous avez des questions, des commentaires ou des suggestions, n'hésitez pas à nous contacter à music@haven.com.",
+        "thanks": "Merci de faire partie de Music Haven. Faisons de la belle musique ensemble !"
+ 
+
     }
+    
 }
