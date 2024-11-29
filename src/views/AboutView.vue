@@ -31,6 +31,8 @@
  
       {{ $t("About.thanks") }}
 
+      <base-button/>
+
     </p>
   </div>
   </main>
