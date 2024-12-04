@@ -1,6 +1,7 @@
 <template>
   <main>
     <div class="about">
+      <p>This is an about</p>
     <p class="w-full md:w-8/12 mx-auto">
          <br>
       {{ $t("About.title") }} <br><br>
@@ -30,7 +31,7 @@
       {{ $t("About.contact_desc") }} <br><br>
  
       {{ $t("About.thanks") }}
-
+      
       <base-button/>
 
     </p>
