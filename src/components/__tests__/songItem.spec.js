@@ -16,7 +16,8 @@ describe('AppSongItem.vue', () => {
             global: {
                 components: {
                     "router-link": RouterLinkStub,
-                }
+                },
+               
             }
         });
 
