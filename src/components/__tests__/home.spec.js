@@ -26,6 +26,6 @@ describe('Home.vue', () => {
 
         items.forEach((wrapper, i) =>{
             expect(wrapper.props().song).toStrictEqual(songs[i]);
-        })
-    })
+        });
+    });
 })
