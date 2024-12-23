@@ -1,8 +1,8 @@
 // https://on.cypress.io/api
 
-describe('My First Test', () => {
-  it('visits the app root url', () => {
+describe('Sanity Test', () => {
+  it('visits the app root url', { browser: 'firefox' }, () => {
     cy.visit('/')
-    cy.contains('h1', 'You did it!')
+    cy.contains("#header a:first-child", "Music")
   })
 })
